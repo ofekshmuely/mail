@@ -1,22 +1,30 @@
 <table cellpadding="0" cellspacing="0" border="0" style="font-family: Arial, sans-serif; font-size: 14px; line-height: 20px; color: #333; max-width: 600px;">
   <tr>
     <td style="padding-right: 10px; vertical-align: top;">
-      <img src="https://raw.githubusercontent.com/ofekshmuely/mail/refs/heads/main/img.jpg" 
-           alt="John Smite" 
-           width="175" 
-           height="175" 
+      <img src="https://raw.githubusercontent.com/ofekshmuely/mail/refs/heads/main/img.jpg"
+           alt="John Smite"
+           width="175"
+           height="175"
            style="border-radius: 10%; display: block;">
     </td>
     <td style="border-left: 2px solid #ccc; padding-left: 15px; padding-right: 15px;">
-      <table cellpadding="0" cellspacing="0" border="0" style="height: 175px; height: 100%;">
+      <table cellpadding="0" cellspacing="0" border="0" style="height: 100%; width: 100%;">
         <tr>
           <td style="vertical-align: top;">
             <span style="font-size: 20px; color: #646464; font-weight: bold;">John Smite</span><br>
             <span style="font-size: 16px; color: #646464; font-weight: bold;">Sales Executive, Wisestamp</span><br>
-            <span style="display: inline-block; font-weight: bold; padding-top: 10px; color:#5a5a87">Phone <a href="tel:123" style="color:#000;text-decoration:none; font-weight:normal;">123-456-7890</a></span><br>
-            <span style="display: inline-block; font-weight: bold; padding-top: 10px; color:#5a5a87"">Email <a href="mailto:john@wisestamp.com" style="color:#000;text-decoration:none; font-weight:normal;">john@wisestamp.com</a></span><br>
-            <span style="display: inline-block; font-weight: bold; padding-top: 10px; color:#5a5a87"">Website <a href="https://www.wisestamp.com/" style="color:#000;text-decoration:none; font-weight:normal;">wisestamp.com</a></span><br>
-            <span style="display: inline-block; padding-top: 10px; font-weight: bold; color:#5a5a87"">Address <a href="https://maps.app.goo.gl/tPA27U6KkjTxBveV8" style="color:#000;text-decoration:none; font-weight:normal;">Lincolnshire, UK</a></span>
+            <span style="display: inline-block; font-weight: bold; padding-top: 10px; color: #5a5a87;">
+              Phone <a href="tel:123" style="color:#000; text-decoration:none; font-weight:normal;">123-456-7890</a>
+            </span><br>
+            <span style="display: inline-block; font-weight: bold; padding-top: 10px; color: #5a5a87;">
+              Email <a href="mailto:john@wisestamp.com" style="color:#000; text-decoration:none; font-weight:normal;">john@wisestamp.com</a>
+            </span><br>
+            <span style="display: inline-block; font-weight: bold; padding-top: 10px; color: #5a5a87;">
+              Website <a href="https://www.wisestamp.com/" style="color:#000; text-decoration:none; font-weight:normal;">wisestamp.com</a>
+            </span><br>
+            <span style="display: inline-block; padding-top: 10px; font-weight: bold; color: #5a5a87;">
+              Address <a href="https://maps.app.goo.gl/tPA27U6KkjTxBveV8" style="color:#000; text-decoration:none; font-weight:normal;">Lincolnshire, UK</a>
+            </span>
           </td>
         </tr>
         <tr>
@@ -26,29 +34,25 @@
                 <td style="padding-right: 5px;">
                   <a href="https://facebook.com/" target="_blank" style="text-decoration: none !important;">
                     <img src="https://cdn.gifo.wisestamp.com/s/fb/3b5998/48/0/background.png"
-                         width="32" height="32" alt="Facebook"
-                         style="display: block;">
+                         width="32" height="32" alt="Facebook" style="display: block;">
                   </a>
                 </td>
                 <td style="padding-right: 5px;">
                   <a href="https://instagram.com/" target="_blank" style="text-decoration: none !important;">
                     <img src="https://cdn.gifo.wisestamp.com/s/inst/E4405F/48/0/background.png"
-                         width="32" height="32" alt="Instagram"
-                         style="display: block;">
+                         width="32" height="32" alt="Instagram" style="display: block;">
                   </a>
                 </td>
                 <td style="padding-right: 5px;">
                   <a href="https://linkedin.com/" target="_blank" style="text-decoration: none !important;">
                     <img src="https://cdn.gifo.wisestamp.com/s/ld/0077b5/48/0/background.png"
-                         width="32" height="32" alt="LinkedIn"
-                         style="display: block;">
+                         width="32" height="32" alt="LinkedIn" style="display: block;">
                   </a>
                 </td>
                 <td>
                   <a href="https://twitter.com/" target="_blank" style="text-decoration: none !important;">
                     <img src="https://cdn.gifo.wisestamp.com/s/tw/000000/48/0/background.png"
-                         width="32" height="32" alt="Twitter / X"
-                         style="display: block;">
+                         width="32" height="32" alt="Twitter / X" style="display: block;">
                   </a>
                 </td>
               </tr>
@@ -63,8 +67,8 @@
   <tr>
     <td colspan="2">
       <a href="https://www.wisestamp.com/banner-maker/" target="_blank">
-        <img src="https://d36urhup7zbd7q.cloudfront.net/b/1652193815772.jpeg" 
-             alt="view my feed" 
+        <img src="https://d36urhup7zbd7q.cloudfront.net/b/1652193815772.jpeg"
+             alt="view my feed"
              style="display: block; width: 100%; max-width: 600px; border: none; padding-top: 15px;">
       </a>
     </td>
@@ -73,12 +77,12 @@
   <!-- Summer Sale with Padding -->
   <tr>
     <td colspan="2" style="text-align: left;">
-      <a href="https://www.wisestamp.com/pricing/individuals" target="_blank" style="text-decoration: none !important; color: #000000 !important; font-weight: normal;">
+      <a href="https://www.wisestamp.com/pricing/individuals" target="_blank"
+         style="text-decoration: none !important; color: #000000 !important; font-weight: normal;">
         <span style="display: inline-block; padding-top: 15px;">
-          <img src="https://cdn.gifo.wisestamp.com/s/teams_sun/e42525/15/trans.png" 
-               alt="summer sale" 
-               width="15" 
-               height="15" 
+          <img src="https://cdn.gifo.wisestamp.com/s/teams_sun/e42525/15/trans.png"
+               alt="summer sale"
+               width="15" height="15"
                style="vertical-align: top; margin-right: 10px;">
           <span style="font-weight: bold; color: #000;">Summer Sale:</span>
           <span style="font-weight: 500; color: #000;">Up to 30% off on deals for teams</span>
